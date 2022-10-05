@@ -7,7 +7,7 @@ Ejemplo aplicación android Promedios en Android Studio, básico. Con fines did�
 > Usando Kotlin. 📱
 
 
-## Código
+## Nota
 En MainActivity.kt, se usa Log y Println para verificar y dar seguimiento de los resultados, vía Logcat (ejemplos de código): 
 ```
 Log.i("SalidaLog", "NombreLog: $cName")
